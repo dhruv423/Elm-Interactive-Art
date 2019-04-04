@@ -1,7 +1,7 @@
 # Elm-Interactive-Art
 
 This app was created using Elm and the shapes was rendered using MacCASOutreach's GraphicSVG package.
-Create your own animations! [Try it out!](https://mac1xa3.ca/u/bhavsd1/simpleapp.html)
+Create your own animations!
 
 ### How to Create your Animation
 
